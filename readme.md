@@ -90,5 +90,6 @@ While this project is quite packed, it is certainly not complete and can benefit
 ## References:
 [1] Arora S, Rao S, Vazirani U (2008). ["Expander flows, geometric embeddings and graph partitioning"](https://www.cs.princeton.edu/~arora/pubs/arvfull.pdf). Journal of the ACM, 56: 1-37. 
 
-[2] Trevisan L (2016). ["Lecture Notes on Graph Partitioning, Expanders and Spectral Methods"](https://people.eecs.berkeley.edu/~luca/books/expanders-2016.pdf)#   S p a r s e s t C u t  
+[2] Trevisan L (2016). ["Lecture Notes on Graph Partitioning, Expanders and Spectral Methods"](https://people.eecs.berkeley.edu/~luca/books/expanders-2016.pdf)#   S p a r s e s t C u t 
+ 
  
