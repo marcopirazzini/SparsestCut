@@ -1,0 +1,6 @@
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+Profile = "9abbd945-dff8-562f-b5e8-e1ebf5ef1b79"
+ProfileView = "c46f51b8-102a-5cf2-8d2c-8597cb0e0da7"
+ProxSDP = "65e78d25-6039-50a4-9445-38022e3d2eb3"
